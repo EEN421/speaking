@@ -10,7 +10,7 @@ Slides, speaker notes, demos, queries, and supporting material from talks, podca
 
 Trusting telemetry, investigating zero-result detections, KQL semantics, and lessons learned from building an automated detection research pipeline.
 
-[Slides & Resources](2026/2026-09-29-kql-cafe/)
+[Slides & Resources](KQL%20Cafe/2026/09-29/)
 
 ---
 
@@ -24,7 +24,7 @@ A two-part session exploring practical Microsoft Sentinel cost optimization with
 
 Topics included Sentinel ingestion analysis, cost optimization, reusable KQL, MSAL authentication, Entra ID application registration, GitHub integration, workspace discovery, and launching queries directly into Sentinel.
 
-[Slides & Resources](2025/2025-01-28-kql-cafe/)
+[Slides & Resources](KQL%20Cafe/2025/01-28/)
 
 ---
 
