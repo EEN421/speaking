@@ -14,7 +14,7 @@ Hi! I'm Ian, a security researcher, engineer, and author who likes figuring out 
 
 I work at Kai, the company rebuilding cybersecurity to run at machine speed; work that used to take security teams weeks now happens in minutes, and it's driving risk down through auto remediation. Human defenders don't just keep up, (and this is my favourite part)... they become superhuman.
 
-Lastly, Being a husband and dad means i know a think or two about incident response, risk management, and chaos engineering, than any certification ever could.
+Lastly, Being a husband and dad means i know a think or two about incident response, risk management, and chaos engineering.
 
 So last time I came on KQL Café, I showed you KQL I was proud of.
 
