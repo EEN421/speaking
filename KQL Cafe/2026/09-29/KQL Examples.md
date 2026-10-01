@@ -1,6 +1,6 @@
 # Supplemental KQL Examples
 
-The presentation uses intentionally simplified KQL examples to illustrate specific failure modes and reasoning patterns.
+This presentation uses intentionally simplified KQL examples to illustrate specific failure modes and reasoning patterns.
 
 The queries below are fuller, operational examples from the [DevSecOpsDadAttack KQL Library](https://devsecopsdadattack.com/kql-library/) that demonstrate the same concepts in realistic detection and hunting scenarios.
 
