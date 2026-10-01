@@ -44,10 +44,10 @@ Topics included Sentinel ingestion analysis, cost optimization, reusable KQL, MS
 
 I'm Ian Hanley, a security researcher and engineer focused on building security capabilities that work in production.
 
-I write and publish security research, detection engineering content, and experiments in security automation and AI through **DevSecOpsDad** and **DevSecOpsDadAttack**.
+I write and publish security research, detection engineering content, and experiments in security automation and AI through **[DevSecOpsDad](https://devsecopsdad.com/)** and **[DevSecOpsDadAttack](https://devsecopsdadattack.com/)**.
 
 ## Contact
 
-- LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/ianhanley/)
 - [DevSecOpsDad](https://devsecopsdad.com/)
 - [DevSecOpsDadAttack](https://devsecopsdadattack.com/)
